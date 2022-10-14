@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Turana</h1>
 <h3 align="center">A Frontend developer from Azerbaijan . Also lecturer and Instructor</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turana1998&label=Profile%20views&color=0e75b6&style=flat" alt="turana1998" /> </p>
+
 - 🔭 I’m currently working on **State Exam Center**
 
 - 🌱 I’m currently learning **React , Larevel**
