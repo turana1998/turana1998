@@ -1,46 +1,36 @@
-<!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<h1 align="center">Hi 👋, I'm Turana</h1>
+<h3 align="center">A Frontend developer from Azerbaijan . Also lecturer and Instructor</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turana1998&label=Profile%20views&color=0e75b6&style=flat" alt="turana1998" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turana1998" alt="turana1998" /></a> </p>
 
-# Hey! 👋 Nice to see you. #
+- 🔭 I’m currently working on **State Exam Center**
 
+- 🌱 I’m currently learning **React , Larevel**
 
+- 👨‍💻 All of my projects are available at [http://turanaismail.herokuapp.com/](http://turanaismail.herokuapp.com/)
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+- 📝 I regularly write articles on [https://turanaismayilova.medium.com/](https://turanaismayilova.medium.com/)
 
+- 📫 How to reach me **turana221298@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/138DaYnWYWLsAEp3ws3UJhZ8LnnYQK3zg?usp=sharing](https://drive.google.com/drive/folders/138DaYnWYWLsAEp3ws3UJhZ8LnnYQK3zg?usp=sharing)
 
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
-[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
-[<img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&fakeurl=1" alt="stackoverflow" width="53">](https://freelance.habr.com/freelancers/Voko_Aleksey)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/turana1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/turana1998" height="30" width="40" /></a>
+<a href="https://twitter.com/@turanaismayilo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@turanaismayilo1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/turana-ismayilova-51965818b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/turana-ismayilova-51965818b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/turana.ismayilova.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/turana.ismayilova.1/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/turanadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/turanadev/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turana1998&show_icons=true&locale=en&layout=compact" alt="turana1998" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turana1998&show_icons=true&locale=en" alt="turana1998" /></p>
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-
-[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
-
-[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=repositories&q=&type=&language=&sort=stargazers)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
-
-------
-
-[Aleksey-Voko](https://github.com/Aleksey-Voko)
-
-Last Edited on: 16/11/2021
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turana1998&" alt="turana1998" /></p>
