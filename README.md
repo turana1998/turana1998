@@ -29,5 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turana1998&show_icons=true&locale=en&layout=compact" alt="turana1998" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turana1998&show_icons=true&locale=en" alt="turana1998" /></p>
 
