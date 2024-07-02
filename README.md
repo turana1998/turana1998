@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **React , Larevel**
 
-- 👨‍💻 All of my projects are available at [http://turanaismail.herokuapp.com/](http://turanaismail.herokuapp.com/)
-
-- 📝 I regularly write articles on [https://turanaismayilova.medium.com/](https://turanaismayilova.medium.com/)
-
 - 📫 How to reach me **turana221298@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/138DaYnWYWLsAEp3ws3UJhZ8LnnYQK3zg?usp=sharing](https://drive.google.com/drive/folders/138DaYnWYWLsAEp3ws3UJhZ8LnnYQK3zg?usp=sharing)
